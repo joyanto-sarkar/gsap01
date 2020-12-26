@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+
+.note{
+  color: black;
+  background-color: white;
+
+  border-radius: 10px;
+  box-shadow: 0 2px 5px #ccc;
+  display:table;
+
+  width: 250px;
+  height: 300px;
+  padding: 10px;
+  table-layout: auto;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 20px;
+
+
+}
